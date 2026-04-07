@@ -2,19 +2,6 @@
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
-hero:
-  name: "Jaeger-Docs"
-  text: "A VitePress Site"
-  tagline: My great project tagline
-  actions:
-    - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples# 指定使用主页布局
-layout: home
-
 # 顶部大横幅区域
 hero:
   name: "Jaeger's Docs"
@@ -37,11 +24,4 @@ features:
   - title: 计算机图形学基础
     details: 从光栅化渲染管线到抗锯齿技术的底层原理剖析与学习记录。
 
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
